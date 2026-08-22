@@ -78,7 +78,7 @@ posterior realizo las siguientes preguntas:
 *  **Probar las banderas obtenidas en las respuestas** Una vez obtenidas las 3 banderas, las insertamos en las respuestas y validamos que son correctas, completando el laboratorio:
    <br><br>
 <p align="center">
-<img src="./assets/validacion.png" alt="Validacion de las respuestas" width="800" height="450"><br>  Descripción: Validación de las 3 banderas en las respuestas.
+<img src="./assets/validacion.png" alt="Validacion de las respuestas" width="800" height="450"><br>  Descripción: Validación de las 3 banderas en las respuestas validas.
 </p>
 
 ---
