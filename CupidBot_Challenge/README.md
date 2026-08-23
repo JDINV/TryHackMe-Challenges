@@ -39,7 +39,7 @@ Para resolver este reto, trabaje con los siguientes elementos:
 ### Paso 3.1: Análisis del laboratorio
 Antes de ejecutar la maquina y empezar a explotar las vulnerabilidades de inyección es necesario entender que podemos poner en practica metodos basicos antes de rompernos la cabeza aplicando codigos de inyección en el chatbot. Para eso empezaremos desde este punto e iremos aplicando formas de consultar al chatbot las 3 flags que nos solicita para completar este laboratorio.
 
-**Identificar que Flags pide el laboratorio** Si leemos las preguntas sobre las respuestas que nos pide el laboratorio, el mismo indica que debemos conseguir 3 flags que son:
+*  **Identificar que Flags pide el laboratorio** Si leemos las preguntas sobre las respuestas que nos pide el laboratorio, el mismo indica que debemos conseguir 3 flags que son:
 
    1.  Prompt injection flag 
    2.  System flag
@@ -75,7 +75,7 @@ Antes de ejecutar la maquina y empezar a explotar las vulnerabilidades de inyecc
       <img src="./assets/bandera3.png" alt="Obtencion de la tercera bandera" width="900" height="350"><br>  Descripción: Obtención de la tercera bandera.
       </p>
 
-**Probar las banderas obtenidas en las respuestas** Una vez obtenidas las 3 banderas, las insertamos en las respuestas y validamos que son correctas, completando el laboratorio:
+*  **Probar las banderas obtenidas en las respuestas** Una vez obtenidas las 3 banderas, las insertamos en las respuestas y validamos que son correctas, completando el laboratorio:
 <br><br>
 <p align="center">
 <img src="./assets/validate.png" alt="Validacion de respuestas" width="900" height="450"><br>  Descripción: Validación de las 3 banderas obtenidas.
